@@ -163,4 +163,4 @@ compilers: {
 
 Screenshots of Project
 
-[test cases result](c:/Users/ragna/Desktop/uda/tests.png%0D) [transaction details after deployed to rinkeby](c:/Users/ragna/Desktop/uda/transaction%20details.png%0D) [etherscan proof](c:/Users/ragna/Desktop/uda/etherscan%20proof.png%0D) [metamask](c:/Users/ragna/Desktop/uda/zzzz4.png%0D) [frontend of DAPP](c:/Users/ragna/Desktop/uda/frontend.png%0D) ![ERC-721 Token details: Token name - starToken , Token symbol - ST](c:/Users/ragna/Desktop/uda/starToken%20ST.png)
+See the project screenshots folder included
